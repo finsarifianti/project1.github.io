@@ -1,11 +1,14 @@
 /*format tablet*/
 
 @media all and (max-width:1000px){
-
 }
 
 /*format smartphone*/
 
 @media all and(max-width:670px){
-
+  .header-list{
+  display:none; 
+  }
+  .menu-icon{
+    display:block;
 }
